@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="example.hello.tabrisjs.world" version="0.1.0">
+  <name>Hello Tabrisjs World</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="fwaibel@eclipsesource.com">
+    fluffi
+  </author>
+</widget>
